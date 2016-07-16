@@ -1,0 +1,14 @@
+[
+	{
+		"productId": "itheima_card",
+		"isConsumable": true
+	},
+	{
+		"productId": "itheima_xue",
+		"isConsumable": true
+	},
+    {
+        "productId": "itheima_dao",
+        "isConsumable": false
+	}
+]
